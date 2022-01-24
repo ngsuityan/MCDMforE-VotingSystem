@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+			rating %
+
+ (rating / totalRating *100) * Point
+
+Rating = Bagi setiap voter
+Point  = Bagi setiap candidate
+
+
+
+
+rating = convert to => rating %
